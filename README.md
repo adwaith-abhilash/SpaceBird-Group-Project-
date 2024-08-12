@@ -2,7 +2,7 @@
 
 ## Play the Game
 
-You can play the game by following this link: [Play the Game](https://drive.google.com/drive/folders/1zfY_tv5ITE8NMBDX02pwM6r6NXMlNyuM?usp=sharing)
+You can play the game by downloading the game files from this link: [Play the Game](https://drive.google.com/drive/folders/1zfY_tv5ITE8NMBDX02pwM6r6NXMlNyuM?usp=sharing)
 
 ## Description
 
